@@ -1,0 +1,67 @@
+
+body{
+    background-image: url("/image/database.jpg");
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+#show_comment{
+    color: white;
+    margin-left: 20%;
+}
+#header{
+    background-color: darkgray;
+    position: relative;
+    margin-top: -25px;
+    padding-left: 2%;
+    font-size: large;
+    height: 60px;
+}
+#form_login{
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    padding:1%;
+    /*background-color: cadetblue;*/
+    width: 400px;
+
+}
+#message{
+    color: white;
+    position: relative;
+    width: 250px;
+    height: 100px;
+}
+p{
+    color: yellow;
+    position: relative;
+    margin: 0;
+}
+#text_id{
+    color: white;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+#print_id{
+    color: white;
+    margin-left: 20%;
+}
+#button_delete{
+    color: white;
+    position: relative;
+    box-shadow: 0 0 5px 0 darkred;
+    border: red;
+    border-radius: 20px;
+
+    background-color: red;
+    font-size: 15px;
+}
+#button{
+    /*position: relative;*/
+    position:center;
+    display: block;
+
+
+}
